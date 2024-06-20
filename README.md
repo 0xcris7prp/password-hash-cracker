@@ -6,6 +6,7 @@ Features
 Installation
 
 git clone https://github.com/yourusername/falcons-hash-cracker.git
+
 cd falcons-hash-cracker
 
 Install Dependencies:
